@@ -1,7 +1,7 @@
 //video de referencias muy bueno
 https: //www.youtube.com/watch?v=iT4UOkyI09k
 
-    token personal: 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
+    token personal: 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
 
 //VERSION DE GIT ESTO ESTA EN LA RAMA V3
 git--version
@@ -76,7 +76,7 @@ git remote - vv
 git push - u origin
 
 //copiar de otro repositorio con la clave en la liga
-git clone https: https: //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:x-oauth-basic@github.com/intelego-nexxo/prueba.git 
+git clone https: //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:x-oauth-basic@github.com/intelego-nexxo/prueba.git 
 
     //git@github.com:intelego-nexxo/nexxo-webapp.git
     //git@github.com:intelego-nexxo/nexxo-backend.git
@@ -182,3 +182,15 @@ git fetch
 //Lanzado ese comando hemos podido descargar la rama git de remoto. Ahora podemos acceder a ella con los comandos que ya conoces.
 
 git checkout mi_rama_remota_descargada
+
+
+git remote add origin https: //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@github.com:kimerapb/bikestote-luisRdz.git     
+    git branch - M main
+git push - u origin main
+
+git remote set - url origin https: //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@github.com:kimerapb/bikestote-luisRdz.git
+
+    git push https: //<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+
+    //REPOSITORIO
+    git push https: //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@github.com/kimerapb/bikestote-luisRdz.git
